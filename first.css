@@ -1,0 +1,64 @@
+h1{
+    font-family: 'Redressed', cursive;
+    font-weight: 1;
+    font-size: 300;
+}
+
+p{
+    color: red;
+}
+#p3{
+    color: yellow;
+}
+.nikhil{
+    color: brown;
+}
+#akhil{
+    font-size: 200px;
+}
+.underline-h{
+    text-decoration: underline;
+}
+#bg{
+    background-color: antiquewhite;
+   border-style: dotted;
+    border-top-right-radius: 10px;
+}
+a{
+    text-decoration: none;
+
+}
+a:link{
+    color: green;
+}
+a:hover{
+    color: red;
+}
+
+a:active{
+    color: blue;
+}
+
+.nikhil{
+    
+    padding: 10px 20px 10px 11px;
+    margin: 10px 20px 20px 10px;
+    border-style: dotted;
+    border-width: auto;
+    
+    text-decoration: line-through;
+    line-height: 50px;
+    word-spacing: 10px;
+    
+    text-shadow: 5px -9px 3px red;
+   
+}
+body{
+   
+    
+    border-style : dotted;
+    border-width: auto;
+   
+
+
+}
